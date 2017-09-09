@@ -1,0 +1,1 @@
+# electron-winstaller-delta-size-test
